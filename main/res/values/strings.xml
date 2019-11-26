@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KuterginDaniil2611019</string>
+
+    <string name="input_name">Input name</string>
+
+
+    <string name="add">Add</string>
+    <string name="back">back</string>
+    <string name="input_age">Input age</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+</resources>
